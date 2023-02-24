@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>247583763272-5336fq6ovkotrh7uefu8ti4f5841eam8.apps.googleUserscontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleUserscontent.apps.247583763272-5336fq6ovkotrh7uefu8ti4f5841eam8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXPx6G4-9v87jcPliSPaEGJ9UcpQv3gsw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>247583763272</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.digitalHandbook</string>
+	<key>PROJECT_ID</key>
+	<string>digital-handbook-85207</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digital-handbook-85207.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:247583763272:ios:aebb3828619d2f7856a17d</string>
+	<key>DATABASE_URL</key>
+	<string>https://digital-handbook-85207-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
